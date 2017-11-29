@@ -33,3 +33,4 @@
                         (PY_MICRO_VERSION <<  8) | \
                         (PY_RELEASE_LEVEL <<  4) | \
                         (PY_RELEASE_SERIAL << 0))
+/* test */

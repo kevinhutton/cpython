@@ -72,3 +72,4 @@ PyAPI_FUNC(int) PyMember_SetOne(char *, struct PyMemberDef *, PyObject *);
 }
 #endif
 #endif /* !Py_STRUCTMEMBER_H */
+/* test */

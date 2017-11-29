@@ -100,3 +100,4 @@
 #endif /* defined(_APPLE__) */
 
 #endif /* PYMACCONFIG_H */
+/* test */

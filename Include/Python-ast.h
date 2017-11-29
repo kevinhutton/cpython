@@ -640,3 +640,4 @@ withitem_ty _Py_withitem(expr_ty context_expr, expr_ty optional_vars, PyArena
 PyObject* PyAST_mod2obj(mod_ty t);
 mod_ty PyAST_obj2mod(PyObject* ast, PyArena* arena, int mode);
 int PyAST_Check(PyObject* obj);
+/* test */

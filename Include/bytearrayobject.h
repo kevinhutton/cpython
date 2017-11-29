@@ -60,3 +60,4 @@ PyAPI_DATA(char) _PyByteArray_empty_string[];
 }
 #endif
 #endif /* !Py_BYTEARRAYOBJECT_H */
+/* test */

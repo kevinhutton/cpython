@@ -84,3 +84,4 @@ PyAPI_FUNC(void) _PyWeakref_ClearRef(PyWeakReference *self);
 }
 #endif
 #endif /* !Py_WEAKREFOBJECT_H */
+/* test */

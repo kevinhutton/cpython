@@ -87,3 +87,4 @@
 #define encoding_decl 340
 #define yield_expr 341
 #define yield_arg 342
+/* test */

@@ -17,3 +17,4 @@ PyAPI_FUNC(PyObject*) _Py_strhex_bytes(const char* argbuf, const Py_ssize_t argl
 #endif
 
 #endif /* !Py_STRHEX_H */
+/* test */

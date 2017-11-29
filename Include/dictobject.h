@@ -177,3 +177,4 @@ PyObject *_PyDict_LoadGlobal(PyDictObject *, PyDictObject *, PyObject *);
 }
 #endif
 #endif /* !Py_DICTOBJECT_H */
+/* test */

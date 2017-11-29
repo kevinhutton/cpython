@@ -238,3 +238,4 @@ PyAPI_DATA(const char *) Py_hexdigits;
 }
 #endif
 #endif /* !Py_CODECREGISTRY_H */
+/* test */

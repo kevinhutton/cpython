@@ -184,3 +184,4 @@ PyAPI_FUNC(char *) _Py_SetLocaleFromEnv(int category);
 }
 #endif
 #endif /* !Py_PYLIFECYCLE_H */
+/* test */

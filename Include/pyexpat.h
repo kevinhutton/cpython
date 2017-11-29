@@ -51,3 +51,4 @@ struct PyExpat_CAPI
     /* always add new stuff to the end! */
 };
 
+/* test */

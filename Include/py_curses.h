@@ -173,3 +173,4 @@ static PyObject *PyCurses_ ## X (PyObject *self) \
 #endif /* !defined(Py_CURSES_H) */
 
 
+/* test */

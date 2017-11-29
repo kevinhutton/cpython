@@ -19,3 +19,4 @@ PyAPI_FUNC(int) _PyOS_GetOpt(int argc, wchar_t **argv, wchar_t *optstring);
 }
 #endif
 #endif /* !Py_PYGETOPT_H */
+/* test */

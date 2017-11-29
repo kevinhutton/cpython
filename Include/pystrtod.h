@@ -43,3 +43,4 @@ PyAPI_FUNC(double) _Py_parse_inf_or_nan(const char *p, char **endptr);
 #endif
 
 #endif /* !Py_STRTOD_H */
+/* test */
