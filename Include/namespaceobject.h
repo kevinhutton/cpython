@@ -19,3 +19,4 @@ PyAPI_FUNC(PyObject *) _PyNamespace_New(PyObject *kwds);
 #endif /* !NAMESPACEOBJECT_H */
 /* test */
 /* test */
+/* test */

@@ -148,3 +148,4 @@ enum cmp_op {PyCmp_LT=Py_LT, PyCmp_LE=Py_LE, PyCmp_EQ=Py_EQ, PyCmp_NE=Py_NE,
 #endif /* !Py_OPCODE_H */
 /* test */
 /* test */
+/* test */

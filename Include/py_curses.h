@@ -175,3 +175,4 @@ static PyObject *PyCurses_ ## X (PyObject *self) \
 
 /* test */
 /* test */
+/* test */

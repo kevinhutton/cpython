@@ -23,3 +23,4 @@ PyAPI_FUNC(int) PyOS_mystricmp(const char *, const char *);
 #endif /* !Py_STRCMP_H */
 /* test */
 /* test */
+/* test */

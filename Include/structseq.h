@@ -49,3 +49,4 @@ PyAPI_FUNC(PyObject*) PyStructSequence_GetItem(PyObject*, Py_ssize_t);
 #endif /* !Py_STRUCTSEQ_H */
 /* test */
 /* test */
+/* test */
