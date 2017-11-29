@@ -31,3 +31,4 @@ void mergebitset(bitset bs1, bitset bs2, int nbits);
 #endif
 #endif /* !Py_BITSET_H */
 /* test */
+/* test */

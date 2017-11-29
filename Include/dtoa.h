@@ -18,3 +18,4 @@ PyAPI_FUNC(double) _Py_dg_infinity(int sign);
 #endif
 #endif
 /* test */
+/* test */
