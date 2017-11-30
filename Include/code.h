@@ -1,4 +1,5 @@
 /* Definitions for bytecode */
+/* Definitions for bytecode */
 
 #ifndef Py_LIMITED_API
 #ifndef Py_CODE_H
