@@ -6,6 +6,7 @@ Written by Marc-Andre Lemburg (mal@lemburg.com).
 Written by Marc-Andre Lemburg (mal@lemburg.com).
 
 Copyright (c) Corporation for National Research Initiatives.
+Copyright (c) Corporation for National Research Initiatives.
 
    ------------------------------------------------------------------------ */
 
