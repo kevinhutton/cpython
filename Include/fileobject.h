@@ -1,4 +1,5 @@
 /* File object interface (what's left of it -- see io.py) */
+/* File object interface (what's left of it -- see io.py) */
 
 #ifndef Py_FILEOBJECT_H
 #define Py_FILEOBJECT_H
